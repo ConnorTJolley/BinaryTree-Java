@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BTree()
+comment1.params=
+comment1.target=boolean\ IsEmpty()
+comment10.params=AKey
+comment10.target=BinaryNode\ Find(int)
+comment11.params=Args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=BinaryNode\ gRoot()
+comment3.params=
+comment3.target=int\ Count()
+comment4.params=ATree
+comment4.target=int\ Size(BinaryNode)
+comment5.params=ATree
+comment5.target=int\ Height(BinaryNode)
+comment6.params=ATree
+comment6.target=void\ PreOrder(BinaryNode)
+comment7.params=ATree
+comment7.target=void\ InOrder(BinaryNode)
+comment8.params=ATree
+comment8.target=void\ PostOrder(BinaryNode)
+comment9.params=AId
+comment9.target=void\ Insert(int)
+numComments=12
